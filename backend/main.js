@@ -67,6 +67,7 @@ const queryString = require('querystring')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
+const PORT = process.env.PORT || 3030;
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
@@ -117,6 +118,6 @@ router.render = (req, res) => {
 
 // Use default router
 server.use(router)
-server.listen(8000, () => {
-  console.log('JSON Server is running')
+server.listen(PORT, () => {
+  console.log(`JSON Server is running on port ${PORT}`);
 })
