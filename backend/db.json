@@ -1,0 +1,301 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@gmail.com",
+      "role": "1"
+    },
+    {
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "1234567",
+      "role": "2",
+      "id": 2
+    },
+    {
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "123",
+      "role": "2",
+      "createdAt": 1702253380343,
+      "id": 3
+    },
+    {
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "password": "1234",
+      "role": 2,
+      "createdAt": 1702403153298,
+      "id": 4
+    },
+    {
+      "username": "user4",
+      "email": "user3@gmail.com",
+      "password": "1234",
+      "role": 2,
+      "createdAt": 1702403445687,
+      "id": 5
+    },
+    {
+      "username": "user6",
+      "email": "user6@gmail.com",
+      "password": "12345",
+      "role": 2,
+      "createdAt": 1702403705877,
+      "id": 6
+    },
+    {
+      "username": "user10",
+      "email": "user10@gmail.com",
+      "password": "12345",
+      "role": 2,
+      "createdAt": 1702411568572,
+      "id": 7
+    },
+    {
+      "username": "user11",
+      "email": "user11@gmail.com",
+      "password": "123",
+      "role": 2,
+      "createdAt": 1702411722050,
+      "id": 8
+    },
+    {
+      "username": "123",
+      "email": "123",
+      "password": "123",
+      "role": "2",
+      "createdAt": 1702435361583,
+      "id": 9
+    },
+    {
+      "username": "user15",
+      "email": "user15@gmail.com",
+      "password": "123456789",
+      "role": 2,
+      "createdAt": 1702437481134,
+      "id": 10
+    },
+    {
+      "username": "user16",
+      "email": "user16@gmail.com",
+      "password": "12",
+      "role": "2",
+      "id": 11
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "image": "/images/book1.jpg",
+      "star": "star here",
+      "title": "Iron Flame",
+      "author": "Edward Lee",
+      "rent_times": "5",
+      "price": "59.95",
+      "genre": "Drama",
+      "position": "A1",
+      "in_stock": "2"
+    },
+    {
+      "id": 2,
+      "image": "/images/book2.jpg",
+      "star": "star here",
+      "title": "Against The Loveless World",
+      "author": "Susan Abulhawa",
+      "rent_times": "4",
+      "price": "49.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "3"
+    },
+    {
+      "id": 3,
+      "image": "/images/book3.jpg",
+      "star": "star here",
+      "title": "Hidden Potential",
+      "author": "Adam Grant",
+      "rent_times": "3",
+      "price": "39.95",
+      "genre": "Psychology",
+      "position": "B1",
+      "in_stock": "4"
+    },
+    {
+      "id": 4,
+      "image": "/images/book4.jpg",
+      "star": "star here",
+      "title": "Trillion Dollar Triage",
+      "author": "Nick Timiraos",
+      "rent_times": "2",
+      "price": "29.95",
+      "genre": "Sci-Fi",
+      "position": "B1",
+      "in_stock": "4"
+    },
+    {
+      "id": 5,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Democracy Awakening",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 6,
+      "image": "/images/book6.jpg",
+      "star": "star here",
+      "title": "System Collapse",
+      "author": "Adam Grant",
+      "rent_times": "3",
+      "price": "39.95",
+      "genre": "Psychology",
+      "position": "B1",
+      "in_stock": "4"
+    },
+    {
+      "id": 7,
+      "image": "/images/book4.jpg",
+      "star": "star here",
+      "title": "Trillion Dollar Triage",
+      "author": "Nick Timiraos",
+      "rent_times": "2",
+      "price": "29.95",
+      "genre": "Sci-Fi",
+      "position": "B1",
+      "in_stock": "4"
+    },
+    {
+      "id": 8,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 9,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 10,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 11,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 12,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "id": 13,
+      "image": "/images/book5.jpg",
+      "star": "star here",
+      "title": "Let Us Descend",
+      "author": "Edward Lee",
+      "rent_times": "8",
+      "price": "89.95",
+      "genre": "Thriller",
+      "position": "B2",
+      "in_stock": "6"
+    },
+    {
+      "image": "/images/book-100.jpg",
+      "star": "a",
+      "title": "Devil's Daughter",
+      "author": "Susan Abulhawa",
+      "rent_times": "5",
+      "price": "79.95",
+      "genre": "Thriller",
+      "position": "A2",
+      "in_stock": "5",
+      "createdAt": 1701596236291,
+      "id": 14
+    },
+    {
+      "image": "images/book-100.jpg",
+      "star": "a",
+      "title": "Silver Flame",
+      "author": "Adam Grant",
+      "rent_times": "4",
+      "price": "49.95",
+      "genre": "Thriller",
+      "position": "A1",
+      "in_stock": "4",
+      "createdAt": 1702253867860,
+      "id": 15
+    },
+    {
+      "image": "/images/book-100.jpg",
+      "star": "abc",
+      "title": "abc",
+      "author": "abc",
+      "rent_times": "12",
+      "price": "12.95",
+      "genre": "Thriller",
+      "position": "A1",
+      "in_stock": "12",
+      "createdAt": 1702437591005,
+      "id": 16
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "book_id": "1",
+      "soluong": "2",
+      "user_id": "2"
+    },
+    {
+      "id": 2,
+      "book_id": "3",
+      "soluong": "8",
+      "user_id": "2"
+    }
+  ],
+  "review": []
+}
